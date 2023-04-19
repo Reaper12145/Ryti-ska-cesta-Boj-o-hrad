@@ -1,2 +1,2 @@
-# Ryti-ska-cesta-Boj-o-hrad
+# Rytiřska-cesta-Boj-o-hrad
 Hra 
