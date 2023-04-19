@@ -1,0 +1,8 @@
+C:\Users\2IT1\Desktop\Rytirskacestabojohrad\Rytirskacestabojohrad\bin\Debug\Rytirskacestabojohrad.exe.config
+C:\Users\2IT1\Desktop\Rytirskacestabojohrad\Rytirskacestabojohrad\bin\Debug\Rytirskacestabojohrad.exe
+C:\Users\2IT1\Desktop\Rytirskacestabojohrad\Rytirskacestabojohrad\bin\Debug\Rytirskacestabojohrad.pdb
+C:\Users\2IT1\Desktop\Rytirskacestabojohrad\Rytirskacestabojohrad\obj\Debug\Rytirskacestabojohrad.csproj.AssemblyReference.cache
+C:\Users\2IT1\Desktop\Rytirskacestabojohrad\Rytirskacestabojohrad\obj\Debug\Rytirskacestabojohrad.csproj.SuggestedBindingRedirects.cache
+C:\Users\2IT1\Desktop\Rytirskacestabojohrad\Rytirskacestabojohrad\obj\Debug\Rytirskacestabojohrad.csproj.CoreCompileInputs.cache
+C:\Users\2IT1\Desktop\Rytirskacestabojohrad\Rytirskacestabojohrad\obj\Debug\Rytirskacestabojohrad.exe
+C:\Users\2IT1\Desktop\Rytirskacestabojohrad\Rytirskacestabojohrad\obj\Debug\Rytirskacestabojohrad.pdb
