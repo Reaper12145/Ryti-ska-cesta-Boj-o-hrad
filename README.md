@@ -89,3 +89,37 @@ Král: Jsem rád že vás mám k dispozici. Jestli to zvládnete nemine vás odm
 ┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼
 
 
+Dialog 1:
+
+Postavy: Král, Rytíř 1
+
+Král: Rytíři, velmi vám děkuji za vaše hrdinství při porážce toho draka. Bez vás by naše království bylo zničeno.
+
+Rytíř 1: Bylo to naše povinnost, vaše Veličenstvo. S radostí jsme se postavili na ochranu našich poddaných.
+
+Král: A za to vám nemohu dostatečně poděkovat. Proto vám dnes daruji ten tajemný hrad v horách. Bude vaše sídlo a budete se o něj starat.
+
+Rytíř 1: To je nesmírně štědrý dar, vaše Veličenstvo. Ale co se stane s podzemím a těmi podivnými bytostmi, které způsobují nebezpečí našim lidem?
+
+Král: Ano, s tím máte pravdu. Není to jenom o hradu, ale o celém království. Budu vás potřebovat, abyste se postavili proti těm podzemním bytostem a chránili naše lidí.
+
+Rytíř 1: Samozřejmě, vaše Veličenstvo. Naše rytířská čest nám velí chránit toto království a jeho obyvatele.
+
+Dialog 2:
+
+Postavy: Rytíř 2, Kouzelník
+
+Rytíř 2: Kouzelníku, slyšeli jsme, že máte mocné kouzlo, které může zahnat podzemní bytosti zpět do podzemí.
+
+Kouzelník: Ano, mám takové kouzlo. Ale proč to chcete vědět?
+
+Rytíř 2: Podzemní bytosti napadají naše království a my se potřebujeme bránit. Potřebujeme najít způsob, jak porazit tyto bytosti.
+
+Kouzelník: Rozumím. Ale moje kouzlo není snadné provést. Potřebuji několik ingrediencí a musím najít vhodné místo pro kouzlení.
+
+Rytíř 2: Můžeme vám pomoci najít ty ingredience a ochránit vás při kouzlení.
+
+Kouzelník: V tom případě se s vámi spojím. Společně dokážeme ty podzemní bytosti zahnat zpět do podzemí.
+
+Rytíř 2: To jsme rádi slyšeli, Kouzelníku. Společně dokážeme obránit naše království a ochránit naše poddané.
+
