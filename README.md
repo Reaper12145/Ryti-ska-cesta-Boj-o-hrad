@@ -49,6 +49,8 @@ veliký kouzelník (mocná kouzla)
 
 
 
+Vysvětlení: Vítej v naší hře. Tato hra je postavena na tvých rozhodnutích. Jakmile si vybereš špatnou možnost, tak můžeš zemřít a budeš muset jít od znova. Ale je zde možnost hodu kostkou, kterou se budeš moct oživit. Přejeme ti málo smrtí a hodně zdaru.
+
 Vypravěč:Vysoko v horách leží tajemný hrad, který byl kdysi sídlem mocného krále. Jeho poddaní mu sloužili s oddaností, ale když se na obzoru objevil drak, jejich životy se změnily. Drak vybíral výpalné a ničil vesnice, a tak král vyslal své rytíře, aby zvíře porazili.
 
 Kral: Milý feudále. Vy víte o tom, že naše království týrá zlý drak. Jste schopen se svými rytíři ho zneškodnit?
